@@ -4,7 +4,7 @@
 
 # AntiScam
 
-**Free, and paid — no AI APIs, no data retention, no bullshit.**
+**Free, and paid — no APIs, no data retention, no bullshit.**
 
 [![License](https://img.shields.io/badge/License-MIT-3b82f6?style=flat-square)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-In%20Development-f59e0b?style=flat-square)]()
