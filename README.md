@@ -24,7 +24,7 @@ Found a scam that isn't detected? Open an [issue](https://github.com/master22w4/
 
 AntiScam is a threat analysis engine that scans any text — emails, messages, links — and tells you instantly whether it's a scam and why.
 
-Paste suspicious content, get a risk score from 0–100, a full breakdown of every threat signal detected, and actionable advice on what to do next. Built entirely in PHP with no external API calls, no cloud dependency, and zero data stored.
+Paste suspicious content, get a risk score from 0 to 100, a comprehensive analysis of each detected threat indicator, and practical advice on what to do next. No external API calls, no cloud dependency, and all data is encrypted when registered.
 
 ---
 
